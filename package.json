@@ -11,9 +11,12 @@
   },
   "dependencies": {
     "@amcharts/amcharts5": "^5.4.10",
+    "@mui/icons-material": "^5.14.18",
+    "@mui/material-next": "^6.0.0-alpha.110",
     "@mui/x-charts": "^6.0.0-alpha.12",
-    "@sisense/sdk-data": "^0.11.1",
-    "@sisense/sdk-ui": "^0.11.1",
+    "@sisense/sdk-data": "^0.14.0",
+    "@sisense/sdk-ui": "^0.14.0",
+    "plotly.js": "^2.27.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-plotly.js": "^2.6.0"
